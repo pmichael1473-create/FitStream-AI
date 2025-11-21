@@ -1,0 +1,5 @@
+{
+  "name": "FitStream AI",
+  "description": "An intelligent fitness assistant that researches workout tips, nutrition advice, and finds streaming videos for your routine.",
+  "requestFramePermissions": []
+}
